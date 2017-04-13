@@ -1,7 +1,7 @@
 # WiPassDump for Bash Bunnys
 
-* Author: Jafahulo --creds: samdeg555, hak5darren
-* Version: Version 2.0
+* Author: samdeg555
+* Version: Version 1.0
 * Target: Windows
 
 ## Description
@@ -17,7 +17,9 @@ None needed.
 
 | LED                | Status                                       |
 | ------------------ | -------------------------------------------- |
-| Red (blinking)     | Running                                      |
+| Red (blinking)     | Setting up                                   |
+| Blue (blinking)    | Attack running                               |
+| Purple (blinking)  | Almost done (cleaning up)                    |
 | Green              | Attack Complete                              |
 
 ## Discussion
